@@ -30,3 +30,4 @@ Please provide a description of any known workarounds.
 * Branch
 * .NET Runtime, CoreCLR or Mono Version
 * Performance information, links to performance testing scripts
+Rip
